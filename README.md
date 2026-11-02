@@ -16,7 +16,7 @@
 <tr><td>Hobi</td><td>: memasak</td></tr>
 </table>
 <hr>
-<p>Terima kasih sudah mengunjungi biodati
+<p>Terima kasih sudah mengunjungi biodata
 </center>
 </body>
 </html
